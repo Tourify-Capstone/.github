@@ -24,13 +24,13 @@ The user-friendly experience provided by Tourify is exemplified by features such
 
 | Bangkit ID | Name | Learning Path | University | Linkedin |
 | ----- | ----- | ----- | ----- | ----- |
-|A318BSX2129|Anjeli Gusnawan|Mobile Development|Universitas Sultan Ageng Tirtayasa|[Anjeli's LinkedIn](https://www.linkedin.com/in/anjeligusnawan/)|
-|A545BKY4436|Zainal Abidin|Mobile Development|UIN Maulana Malik Ibrahim Malang|[Zain's LinkedIn](https://www.linkedin.com/in/zainalabidin1453/)|
-|M452BSY1209|Muhammad Haykal Andana|Machine Learning|Universitas Muhammadiyah Jakarta|[Haykal's LinkedIn](https://www.linkedin.com/in/muhammad-haykal-andana-807535281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
-|M295BSY1460|Aryaguna Abi Rafdi Yasa|Machine Learning|Universitas Pembangunan Nasional Veteran Jakarta|[Rafdi's LinkedIn](https://www.linkedin.com/in/aryaguna-abi-rafdi-yasa-646ab221a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
-|M452BSY0555|Muhammad Adri Farqan|Machine Learning| Politeknik Negeri Jakarta|[Adri's LinkedIn](https://www.linkedin.com/in/muhammad-adri-farqan-b83097274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
-|C128BSY3665|William Nison Manurung|Cloud Computing|Politeknik Negeri Jakarta|[William's LinkedIn](https://www.linkedin.com/in/williamnisonm?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
-|C128BSY3578|Eza Musyarof|Cloud Computing|Politeknik Negeri Jakarta|[Eza's LinkedIn](https://www.linkedin.com/in/ezamusyarof?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
+|A318BSX2129|Anjeli Gusnawan|Mobile Development|Universitas Sultan Ageng Tirtayasa|[Here](https://www.linkedin.com/in/anjeligusnawan/)|
+|A545BKY4436|Zainal Abidin|Mobile Development|UIN Maulana Malik Ibrahim Malang|[Here](https://www.linkedin.com/in/zainalabidin1453/)|
+|M452BSY1209|Muhammad Haykal Andana|Machine Learning|Universitas Muhammadiyah Jakarta|[Here](https://www.linkedin.com/in/muhammad-haykal-andana-807535281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
+|M295BSY1460|Aryaguna Abi Rafdi Yasa|Machine Learning|Universitas Pembangunan Nasional Veteran Jakarta|[Here(https://www.linkedin.com/in/aryaguna-abi-rafdi-yasa-646ab221a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
+|M452BSY0555|Muhammad Adri Farqan|Machine Learning| Politeknik Negeri Jakarta|[Here](https://www.linkedin.com/in/muhammad-adri-farqan-b83097274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
+|C128BSY3665|William Nison Manurung|Cloud Computing|Politeknik Negeri Jakarta|[William's LinkedIn](Here)|
+|C128BSY3578|Eza Musyarof|Cloud Computing|Politeknik Negeri Jakarta|[Eza's LinkedIn](https://www.linkedin.com/in/williamnisonm?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 
 <p align="left">
   <img
