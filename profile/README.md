@@ -18,7 +18,15 @@ The user-friendly experience provided by Tourify is exemplified by features such
 
 - Access comprehensive information about tourist spots and cuisine, making your travel experience richer.
 
-#
+# Our Team
+
+M452BSY1209 - Muhammad Haykal Andana - Universitas Muhammadiyah Jakarta - [Machine Learning]
+M295BSY1460 - Aryaguna Abi Rafdi Yasa - Universitas Pembangunan Nasional Veteran Jakarta - [Machine Learning]
+M452BSY0555 - Muhammad Adri Farqan - Universitas Muhammadiyah Jakarta - [Machine Learning]
+C128BSY3665 - William Nison Manurung - Politeknik Negeri Jakarta - [Cloud Computing]
+C128BSY3578 - Eza Musyarof -  Politeknik Negeri Jakarta - [Cloud Computing]
+A318BSX2129 - Anjeli Gusnawan - Universitas Sultan Ageng Tirtayasa - [Mobile Development] 
+A545BKY4436 - Zainal Abidin - UIN Maulana Malik Ibrahim Malang - [Mobile Development] 
 
 Bangkit Batch 2 - CH2-PS021 - Tourism, Cultural, and Hospitality
 
