@@ -29,7 +29,7 @@ The user-friendly experience provided by Tourify is exemplified by features such
 |M452BSY1209|Muhammad Haykal Andana|Machine Learning|Universitas Muhammadiyah Jakarta|[Here](https://www.linkedin.com/in/muhammad-haykal-andana-807535281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 |M295BSY1460|Aryaguna Abi Rafdi Yasa|Machine Learning|Universitas Pembangunan Nasional Veteran Jakarta|[Here](https://www.linkedin.com/in/aryaguna-abi-rafdi-yasa-646ab221a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 |M452BSY0555|Muhammad Adri Farqan|Machine Learning| Politeknik Negeri Jakarta|[Here](https://www.linkedin.com/in/muhammad-adri-farqan-b83097274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
-|C128BSY3665|William Nison Manurung|Cloud Computing|Politeknik Negeri Jakarta|[Here](https://www.linkedin.com/in/williamnisonm?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))|
+|C128BSY3665|William Nison Manurung|Cloud Computing|Politeknik Negeri Jakarta|[Here](https://www.linkedin.com/in/williamnisonm?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 |C128BSY3578|Eza Musyarof|Cloud Computing|Politeknik Negeri Jakarta|[Here](https://www.linkedin.com/in/ezamusyarof?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 
 <p align="left">
