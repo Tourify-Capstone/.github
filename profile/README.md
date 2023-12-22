@@ -1,4 +1,4 @@
-# Tourify Capstone
+# Tourify: The Travel Guide App
 
 Tourify represents a groundbreaking travel application designed to revolutionize the way individuals explore and discover destinations in Indonesia. In the context of an increasingly digital era, Tourify effectively addresses various critical issues. These include the demand for online tour guide services, the opportunity for tour guides to showcase their expertise, distinctive AI features for image analysis of tourist attractions, assisting travelers who are perplexed by culinary options at visited tourist destinations, aiding less-publicized tourist spots, and addressing the common confusion experienced by travelers when selecting a holiday destination.
 
